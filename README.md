@@ -1,5 +1,10 @@
 # How to Solder Head Pins on the Waveshare ESP32-S3-Touch-LCD-1.47
 
+## Disclaimer
+This guide is provided "as is" without any warranties.  
+I am not responsible for any damage, loss, or injury that may result from using this guide or following these instructions.  
+Use at your own risk.
+
 ## Introduction
 I created this guide because I couldn’t find any clear or beginner-friendly instructions online for soldering head pins on the Waveshare ESP32-S3-Touch-LCD-1.47. After some trial and error, this method worked reliably for me, so I decided to document the process to help others.
 
