@@ -91,7 +91,9 @@ Repeat the same process for the other row of pads and head pins.
 Using your fingernails (or a small flat tool), **slowly and carefully slide the plastic spacers back to their original positions**.  
 Do this gently and evenly on both sides.
 
-![Step 8 – Plastic spacers moved back](images/step8-spacer-reset.jpg)
+![Step 8 – Plastic spacers moved back](images/step8-spacer-reset-L.jpg)
+
+![Step 8 – Plastic spacers moved back](images/step8-spacer-reset-R.jpg)
 
 ---
 
@@ -101,7 +103,13 @@ Inspect all solder joints:
 - No solder bridges between pins
 - Pins should be straight and firmly attached
 
-![Step 9 – Final result](images/step9-final-result.jpg)
+![Step 9 – Final result](images/step9-final-result-1.jpg)
+
+![Step 9 – Final result](images/step9-final-result-2.jpg)
+
+![Step 9 – Final result](images/step9-final-result-3.jpg)
+
+![Step 9 – Final result](images/step9-final-result-4.jpg)
 
 ---
 
